@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- :school: I’m a SEUer major in computer science
+- 🌱 I’m currently learning basic CS
+- 📒 I write something [here](www.hollowlamp.com)
+
+
+![](https://github-readme-stats.vercel.app/api?username=hollowlamp&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hollowlamp&layout=compact&theme=tokyonight)
+
