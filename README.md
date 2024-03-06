@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - :school: I’m a SEUer major in computer science
 - 🌱 I’m currently learning basic CS
-- 📒 I write something in www.hollowlamp.com
+- 📒 I write something [here](www.hollowlamp.com)
 
 
 ![](https://github-readme-stats.vercel.app/api?username=hollowlamp&show_icons=true&theme=transparent)
