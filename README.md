@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - :school: I’m a SEUer major in computer science
-- 🌱 I’m currently learning basic CS
+- 🌱 I’m currently learning CSCI0300, front-end 
 
 
 ![](https://github-readme-stats.vercel.app/api?username=hollowlamp&show_icons=true&theme=transparent)
