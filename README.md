@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - :school: I’m a SEUer major in computer science
 - 🌱 I’m currently learning everything
 
+Tech stack I have used:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,postgres,nodejs,express)](https://skillicons.dev)
 
 ![](https://github-readme-stats.vercel.app/api?username=hollowlamp&show_icons=true&theme=transparent)
 
