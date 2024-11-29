@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning everything
 
 Tech stack and PL I have used:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,postgres,nodejs,express,c,cpp,qt,java,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,typescript,remix,nest,postgres,nodejs,express,c,cpp,qt,java,py)](https://skillicons.dev)
 
 ![](https://github-readme-stats.vercel.app/api?username=hollowlamp&show_icons=true&theme=transparent)
 
